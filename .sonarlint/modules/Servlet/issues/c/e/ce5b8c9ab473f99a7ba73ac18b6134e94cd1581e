@@ -1,0 +1,25 @@
+
+msquid:S1161":Add the "@Override" annotation above this method signature(‚åñ8ª¡†·Ã,HRMAJORZ
+CODE_SMELL
+rsquid:S1161":Add the "@Override" annotation above this method signature(‡¤°Àüÿÿÿÿ8ª¡†·Ã,HRMAJORZ
+CODE_SMELL
+rsquid:S1161%":Add the "@Override" annotation above this method signature(†·Õ†şÿÿÿÿ8ª¡†·Ã,HRMAJORZ
+CODE_SMELL
+msquid:S1161&":Add the "@Override" annotation above this method signature(úÍº•8ª¡†·Ã,HRMAJORZ
+CODE_SMELL
+k
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¥ÍŒ¯8ª¡†·Ã,HRMAJORZ
+CODE_SMELL
+ƒsquid:UselessImportCheck"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë8ª¡†·Ã,HRMINORZ
+CODE_SMELL
+msquid:S1161$":Add the "@Override" annotation above this method signature(¥ÍŒ¯8ª¡†·Ã,HRMAJORZ
+CODE_SMELL
+‚squid:UselessImportCheck"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8ª¡†·Ã,HRMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßïå›8ª¡†·Ã,HRMAJORZ
+CODE_SMELL
+‰squid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ÿ±£ıÿÿÿÿ8ª¡†·Ã,HRMAJORZBUG
+Fsquid:S1220""Move this file to a named package.H
+RMINORZ
+CODE_SMELL

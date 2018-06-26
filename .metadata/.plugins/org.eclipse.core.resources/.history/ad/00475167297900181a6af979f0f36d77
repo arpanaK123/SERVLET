@@ -1,0 +1,17 @@
+package com.bridgeit.login;
+
+public class Login  extends HttpServlet{  
+	public void doGet(HttpServletRequest req,HttpServletResponse res)  
+			throws ServletException,IOException  
+			{  
+			res.setContentType("text/html");  
+			PrintWriter pw=res.getWriter();  
+			  
+			String name=req.getParameter("name");//will return value  
+			pw.println("Welcome "+name);  
+			  
+			pw.close();  
+			}}  
+
+
+

@@ -1,0 +1,5 @@
+INDEX VERSION 1.130+/home/bridgeit/SERVLET/.metadata/.plugins/org.eclipse.jdt.core
+3695634685.index
+3424228924.index
+61124512.index
+3382623684.index
