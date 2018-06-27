@@ -1,10 +1,10 @@
 
-Fsquid:S1220""Move this file to a named package.H(RMINORZ
-CODE_SMELL
-‚squid:UselessImportCheck"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8Žý‹¸Ã,H/RMINORZ
+ƒsquid:UselessImportCheck"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë8Žý‹¸Ã,H2RMINORZ
 CODE_SMELL
 €squid:UselessImportCheck
-";Remove this unused import 'javax.servlet.http.HttpServlet'.(û÷Å›ÿÿÿÿÿ8Žý‹¸Ã,H0RMINORZ
+";Remove this unused import 'javax.servlet.http.HttpServlet'.(û÷Å›ÿÿÿÿÿ8Žý‹¸Ã,H3RMINORZ
 CODE_SMELL
-ƒsquid:UselessImportCheck"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë8Žý‹¸Ã,H1RMINORZ
+Fsquid:S1220""Move this file to a named package.H4RMINORZ
+CODE_SMELL
+‚squid:UselessImportCheck"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8Žý‹¸Ã,H5RMINORZ
 CODE_SMELL

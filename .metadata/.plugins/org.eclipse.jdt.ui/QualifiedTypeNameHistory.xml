@@ -5,4 +5,5 @@
     <fullyQualifiedTypeName name="javax.servlet.ServletRequest"/>
     <fullyQualifiedTypeName name="javax.servlet.ServletResponse"/>
     <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
 </qualifiedTypeNameHistroy>
