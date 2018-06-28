@@ -1,0 +1,14 @@
+
+]squid:S1989"(Add a "try/catch" block for "getWriter".(ïô†úÿÿÿÿH·RMINORZVULNERABILITY
+jsquid:S2589"7Remove this expression which always evaluates to "true"( ”øi8í¾ŞŠÄ,H¸RMAJORZ
+CODE_SMELL
+bsquid:S1989"&Add a "try/catch" block for "include".(›”–¢ıÿÿÿÿ8í¾ŞŠÄ,H¹RMINORZVULNERABILITY
+bsquid:S1989"&Add a "try/catch" block for "include".(›”–¢ıÿÿÿÿ8í¾ŞŠÄ,HºRMINORZVULNERABILITY
+—squid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ8Ë²€‹Ä,H§RMINORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(ùÎÿíüÿÿÿÿ8í¾ŞŠÄ,H»RMINORZ
+CODE_SMELL
+bsquid:S1989!"&Add a "try/catch" block for "include".(ŒÑèÂüÿÿÿÿ8í¾ŞŠÄ,H¼RMINORZVULNERABILITY
+gsquid:S1161":Add the "@Override" annotation above this method signature(÷¤‹úH™RMAJORZ
+CODE_SMELL
+bsquid:S1989!"&Add a "try/catch" block for "include".(ŒÑèÂüÿÿÿÿ8í¾ŞŠÄ,H½RMINORZVULNERABILITY

@@ -17,7 +17,7 @@
 	</servlet-mapping>
 	<servlet>
 
-		<display-name>ProfileServlet</display-name>
+	
 		<servlet-name>ProfileServlet</servlet-name>
 		<servlet-class>com.bridgeit.registration.ProfileServlet</servlet-class>
 	</servlet>
@@ -26,7 +26,6 @@
 		<url-pattern>/ProfileServlet</url-pattern>
 	</servlet-mapping>
 	<servlet>
-		<display-name>LogoutServlet</display-name>
 		<servlet-name>LogoutServlet</servlet-name>
 		<servlet-class>com.bridgeit.registration.LogoutServlet</servlet-class>
 	</servlet>

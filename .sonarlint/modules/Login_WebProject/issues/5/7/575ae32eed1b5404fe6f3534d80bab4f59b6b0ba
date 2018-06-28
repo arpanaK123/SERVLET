@@ -1,16 +1,16 @@
 
-[squid:S1989 "&Add a "try/catch" block for "include".(ß‘†¸üÿÿÿÿH®RMINORZVULNERABILITY
-bsquid:S1854"5Remove this useless assignment to local variable "n".(ÍøòØH±RMAJORZ
+bsquid:S1854"5Remove this useless assignment to local variable "n".(ÍøòØH¼RMAJORZ
 CODE_SMELL
-Vsquid:S1989"&Add a "try/catch" block for "forward".(ãìÄH­RMINORZVULNERABILITY
-lsquid:S1161":Add the "@Override" annotation above this method signature(ş³‚”ûÿÿÿÿH³RMAJORZ
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğ ¼†H½RMINORZ
 CODE_SMELL
-]squid:S1989"(Add a "try/catch" block for "getWriter".(ïô†úÿÿÿÿH«RMINORZVULNERABILITY
-[squid:S1989 "&Add a "try/catch" block for "include".(ß‘†¸üÿÿÿÿH¯RMINORZVULNERABILITY
-ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğ ¼†H²RMINORZ
+]squid:S1989"(Add a "try/catch" block for "getWriter".(ïô†úÿÿÿÿH¾RMINORZVULNERABILITY
+†squid:UselessImportCheck"@Remove this unused import 'javax.servlet.annotation.WebServlet'.(™ì¢´şÿÿÿÿ8ã© âÃ,H¿RMINORZ
 CODE_SMELL
-Vsquid:S1989"&Add a "try/catch" block for "forward".(ãìÄH¬RMINORZVULNERABILITY
-Ssquid:S1481"&Remove this unused "n" local variable.(ÍøòØH°RMINORZ
+lsquid:S1161":Add the "@Override" annotation above this method signature(ş³‚”ûÿÿÿÿHÀRMAJORZ
 CODE_SMELL
-†squid:UselessImportCheck"@Remove this unused import 'javax.servlet.annotation.WebServlet'.(™ì¢´şÿÿÿÿ8ã© âÃ,H¸RMINORZ
+Vsquid:S1989"&Add a "try/catch" block for "forward".(ãìÄHÁRMINORZVULNERABILITY
+Ssquid:S1481"&Remove this unused "n" local variable.(ÍøòØHÂRMINORZ
 CODE_SMELL
+[squid:S1989 "&Add a "try/catch" block for "include".(ß‘†¸üÿÿÿÿHÃRMINORZVULNERABILITY
+[squid:S1989 "&Add a "try/catch" block for "include".(ß‘†¸üÿÿÿÿHÄRMINORZVULNERABILITY
+Vsquid:S1989"&Add a "try/catch" block for "forward".(ãìÄHÅRMINORZVULNERABILITY

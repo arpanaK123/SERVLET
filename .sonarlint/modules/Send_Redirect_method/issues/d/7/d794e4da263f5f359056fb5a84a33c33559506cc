@@ -1,0 +1,10 @@
+
+gsquid:S1161":Add the "@Override" annotation above this method signature(÷¤‹úHÚRMAJORZ
+CODE_SMELL
+]squid:S1481")Remove this unused "name" local variable.(ûÁéê8‡šµþÃ,HßRMINORZ
+CODE_SMELL
+lsquid:S1854"8Remove this useless assignment to local variable "name".(ûÁéê8‡šµþÃ,HàRMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Îö°§HÙRMINORZ
+CODE_SMELL
+gsquid:S1989"+Add a "try/catch" block for "sendRedirect".(°Ê¨Õøÿÿÿÿ8‡šµþÃ,HÞRMINORZVULNERABILITY
