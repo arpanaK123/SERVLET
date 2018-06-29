@@ -1,0 +1,17 @@
+
+…squid:S00116"PRename this field "EMAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªò®÷8Çù„¯Ä,H¥RMINORZ
+CODE_SMELL
+Ysquid:S1659"%Declare "COUNTRY" on a separate line.(ªò®÷8Çù„¯Ä,H¦RMINORZ
+CODE_SMELL
+‚squid:S00116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÌèš8Çù„¯Ä,H§RMINORZ
+CODE_SMELL
+ˆsquid:S00116"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªò®÷8Çù„¯Ä,H¨RMINORZ
+CODE_SMELL
+„squid:S00116"ORename this field "NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªò®÷8Çù„¯Ä,H©RMINORZ
+CODE_SMELL
+Zsquid:S1659"&Declare "PASSWORD" on a separate line.(ªò®÷8Çù„¯Ä,HªRMINORZ
+CODE_SMELL
+‡squid:S00116"RRename this field "COUNTRY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªò®÷8Çù„¯Ä,H«RMINORZ
+CODE_SMELL
+Wsquid:S1659"#Declare "EMAIL" on a separate line.(ªò®÷8Çù„¯Ä,H¬RMINORZ
+CODE_SMELL

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+	id="WebApp_ID" version="3.1">
+	<display-name>HTTP_SESSION_LOGIN_LOGOUT</display-name>
+
+	<servlet>
+		<servlet-name>login</servlet-name>
+		<servlet-class>com.bridgeit.register.LoginServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>login</servlet-name>
+		<url-pattern>/LoginServlet</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>profile</servlet-name>
+		<servlet-class>com.bridgeit.register.ProfileServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>profile</servlet-name>
+		<url-pattern>/ProfileServlet</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>logout</servlet-name>
+		<servlet-class>com.bridgeit.register.LogoutServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>logout</servlet-name>
+		<url-pattern>/LogoutServlet</url-pattern>
+	</servlet-mapping>
+
+	<welcome-file-list>
+		<welcome-file>Index.html</welcome-file>
+	</welcome-file-list>
+</web-app>

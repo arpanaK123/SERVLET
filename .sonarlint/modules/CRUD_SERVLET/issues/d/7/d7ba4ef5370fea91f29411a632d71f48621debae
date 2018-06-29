@@ -1,0 +1,7 @@
+
+gsquid:S1161":Add the "@Override" annotation above this method signature(÷¤‹úH£RMAJORZ
+CODE_SMELL
+bsquid:S1989"+Add a "try/catch" block for "sendRedirect".(Ù¼©£8Þ‚ÜÙÄ,H¥RMINORZVULNERABILITY
+^squid:S1989"'Add a "try/catch" block for "parseInt".(Ê ÿ¿8Þ‚ÜÙÄ,H¤RMINORZVULNERABILITY
+†squid:UselessImportCheck"@Remove this unused import 'javax.servlet.annotation.WebServlet'.(™ì¢´þÿÿÿÿ8åý€ÚÄ,H³RMINORZ
+CODE_SMELL

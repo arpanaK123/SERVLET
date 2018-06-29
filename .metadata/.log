@@ -1295,3 +1295,1216 @@ Binding(CTRL+SHIFT+T,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-28 10:04:14.477
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-28 10:04:14.478
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2018-06-28 10:05:32.686
+!MESSAGE Connection to http://dist.springsource.com/release/STS/doc/updates.xml failed on dist.springsource.com: Temporary failure in name resolution. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: dist.springsource.com: Temporary failure in name resolution
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:924)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1504)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:843)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1494)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1353)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1287)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.resolveHostname(DefaultClientConnectionOperator.java:262)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:161)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:612)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:447)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:884)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1084)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:1075)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:1071)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2018-06-28 10:05:32.961
+!MESSAGE Connection to https://spring.io/blog.atom failed on spring.io: Temporary failure in name resolution. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: spring.io: Temporary failure in name resolution
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:924)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1504)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:843)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1494)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1353)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1287)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.resolveHostname(DefaultClientConnectionOperator.java:262)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:161)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:612)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:447)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:884)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1084)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:1075)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:1071)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-28 10:10:27.733
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-28 10:10:27.733
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-28 10:27:13.497
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-28 10:27:13.498
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-28 10:32:51.095
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-28 10:33:15.448
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-06-28 10:33:29.759
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-28 10:34:00.763
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-28 10:34:23.720
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-06-28 10:34:49.882
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-28 10:35:17.640
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-28 10:36:28.384
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-28 15:39:43.299
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-28 15:39:43.300
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.core.resources 4 380 2018-06-28 18:59:49.764
+!MESSAGE The resource tree is locked for modifications.
+!SESSION 2018-06-29 09:18:37.123 -----------------------------------------------
+eclipse.buildId=3.9.3.201803200915-RELEASE-e47
+java.version=9.0.4
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.ui 2 0 2018-06-29 09:18:52.493
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2018-06-29 09:18:52.493
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.lsp4e', id='org.eclipse.lsp4e.togglehighlight'
+
+!ENTRY org.eclipse.e4.ui.css.swt.theme 4 0 2018-06-29 09:18:58.297
+!MESSAGE /resources/css/dark.css
+!STACK 0
+java.io.FileNotFoundException: /resources/css/dark.css
+	at org.eclipse.osgi.storage.url.bundleentry.Handler.findBundleEntry(Handler.java:49)
+	at org.eclipse.osgi.storage.url.BundleResourceHandler.openConnection(BundleResourceHandler.java:169)
+	at java.base/java.net.URL.openConnection(URL.java:1051)
+	at org.eclipse.osgi.storage.url.BundleURLConverter.resolve(BundleURLConverter.java:50)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:229)
+	at org.eclipse.core.internal.runtime.PlatformURLConverter.resolve(PlatformURLConverter.java:50)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:229)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:419)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:387)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:551)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1419)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1326)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1043)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1472)
+
+!ENTRY org.eclipse.jface 2 0 2018-06-29 09:18:59.461
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-06-29 09:18:59.461
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4fdea2de,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5ea24702,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-29 14:54:24.760
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-29 14:54:24.761
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 15:22:23.632
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-06-29 15:22:49.845
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 15:36:53.124
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-06-29 15:37:08.431
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 15:37:26.596
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 15:37:50.670
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+!SESSION 2018-06-29 15:38:11.050 -----------------------------------------------
+eclipse.buildId=3.9.3.201803200915-RELEASE-e47
+java.version=9.0.4
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.ui 2 0 2018-06-29 15:38:17.929
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2018-06-29 15:38:17.929
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.lsp4e', id='org.eclipse.lsp4e.togglehighlight'
+
+!ENTRY org.eclipse.e4.ui.css.swt.theme 4 0 2018-06-29 15:38:19.614
+!MESSAGE /resources/css/dark.css
+!STACK 0
+java.io.FileNotFoundException: /resources/css/dark.css
+	at org.eclipse.osgi.storage.url.bundleentry.Handler.findBundleEntry(Handler.java:49)
+	at org.eclipse.osgi.storage.url.BundleResourceHandler.openConnection(BundleResourceHandler.java:169)
+	at java.base/java.net.URL.openConnection(URL.java:1051)
+	at org.eclipse.osgi.storage.url.BundleURLConverter.resolve(BundleURLConverter.java:50)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:229)
+	at org.eclipse.core.internal.runtime.PlatformURLConverter.resolve(PlatformURLConverter.java:50)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:229)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:419)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:387)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:551)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1419)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1326)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1043)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1472)
+
+!ENTRY org.eclipse.jface 2 0 2018-06-29 15:38:20.218
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-06-29 15:38:20.218
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2cb95c6c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1484cb57,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 15:39:18.182
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 15:40:06.274
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-06-29 15:40:42.460
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 15:41:06.784
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 15:41:55.235
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 15:42:00.919
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-06-29 15:43:19.124
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 15:44:04.272
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 16:01:17.255
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-06-29 16:03:05.817
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 16:03:37.938
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-06-29 16:05:30.361
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 16:06:03.383
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-06-29 16:07:03.888
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 16:07:27.875
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 16:09:39.707
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+!SESSION 2018-06-29 16:20:41.231 -----------------------------------------------
+eclipse.buildId=3.9.3.201803200915-RELEASE-e47
+java.version=9.0.4
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.ui 2 0 2018-06-29 16:20:47.594
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2018-06-29 16:20:47.594
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.lsp4e', id='org.eclipse.lsp4e.togglehighlight'
+
+!ENTRY org.eclipse.e4.ui.css.swt.theme 4 0 2018-06-29 16:20:49.260
+!MESSAGE /resources/css/dark.css
+!STACK 0
+java.io.FileNotFoundException: /resources/css/dark.css
+	at org.eclipse.osgi.storage.url.bundleentry.Handler.findBundleEntry(Handler.java:49)
+	at org.eclipse.osgi.storage.url.BundleResourceHandler.openConnection(BundleResourceHandler.java:169)
+	at java.base/java.net.URL.openConnection(URL.java:1051)
+	at org.eclipse.osgi.storage.url.BundleURLConverter.resolve(BundleURLConverter.java:50)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:229)
+	at org.eclipse.core.internal.runtime.PlatformURLConverter.resolve(PlatformURLConverter.java:50)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:229)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:419)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:387)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:551)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1419)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1326)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1043)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1472)
+
+!ENTRY org.eclipse.jface 2 0 2018-06-29 16:20:49.976
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-06-29 16:20:49.976
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2cb95c6c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1484cb57,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-06-29 16:21:17.855
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-29 16:22:02.415
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-29 16:22:02.415
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-29 16:23:57.343
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-29 16:23:57.343
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-06-29 16:31:45.743
+!MESSAGE Failed to read module-info.class
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/java.nio.channels.Channels$ReadableByteChannelImpl.read(Channels.java:386)
+	at jdk.internal.jrtfs.JrtFileSystem$1.read(JrtFileSystem.java:376)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at java.base/java.nio.file.Files.read(Files.java:3160)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3213)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfileBytes(JRTUtil.java:330)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfile(JRTUtil.java:341)
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.getClassfile(JRTUtil.java:159)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.getModule(JavaProject.java:830)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.addTransitive(JavaProject.java:818)
+	at org.eclipse.jdt.internal.core.JavaProject.filterLimitedModules(JavaProject.java:793)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:695)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:963)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:922)
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:477)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:320)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:306)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3537)
+	at org.eclipse.jdt.internal.core.ModuleSourcePathManager.seekModule(ModuleSourcePathManager.java:79)
+	at org.eclipse.jdt.internal.core.NameLookup.findModule(NameLookup.java:1028)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModule(SearchableEnvironment.java:1026)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getModule(LookupEnvironment.java:204)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.javaBaseModule(LookupEnvironment.java:715)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getResolvedJavaBaseType(LookupEnvironment.java:1560)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getJavaLangString(Scope.java:2830)
+	at org.eclipse.jdt.internal.compiler.ast.StringLiteral.literalType(StringLiteral.java:73)
+	at org.eclipse.jdt.internal.compiler.ast.Literal.resolveType(Literal.java:45)
+	at org.eclipse.jdt.internal.compiler.ast.MemberValuePair.resolveTypeExpecting(MemberValuePair.java:92)
+	at org.eclipse.jdt.internal.compiler.ast.Annotation.resolveType(Annotation.java:852)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:857)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:716)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.getAnnotationTagBits(SourceTypeBinding.java:1024)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.checkAnnotationsInType(SourceTypeBinding.java:887)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.faultInTypesForFieldsAndMethods(SourceTypeBinding.java:900)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.faultInTypes(CompilationUnitScope.java:509)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:1047)
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:163)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:378)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect_aroundBody0(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.core.CompilationUnit$AjcClosure1.run(CompilationUnit.java:1)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8proceed(ITDAwarenessAspect.aj:311)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8(ITDAwarenessAspect.aj:312)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getJavaElementsAt(AbstractJavaEditorTextHover.java:121)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo(JavaSourceHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo2(JavaSourceHover.java:118)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-06-29 16:31:45.843
+!MESSAGE Failed to read module-info.class
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/java.nio.channels.Channels$ReadableByteChannelImpl.read(Channels.java:386)
+	at jdk.internal.jrtfs.JrtFileSystem$1.read(JrtFileSystem.java:376)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at java.base/java.nio.file.Files.read(Files.java:3160)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3213)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfileBytes(JRTUtil.java:330)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfile(JRTUtil.java:341)
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.getClassfile(JRTUtil.java:159)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.getModule(JavaProject.java:830)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.addTransitive(JavaProject.java:818)
+	at org.eclipse.jdt.internal.core.JavaProject.filterLimitedModules(JavaProject.java:793)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:695)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:963)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:922)
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:477)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:320)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:306)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3537)
+	at org.eclipse.jdt.internal.core.ModuleSourcePathManager.seekModule(ModuleSourcePathManager.java:79)
+	at org.eclipse.jdt.internal.core.NameLookup.findModule(NameLookup.java:1028)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModule(SearchableEnvironment.java:1026)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getModule(LookupEnvironment.java:204)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.javaBaseModule(LookupEnvironment.java:715)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getResolvedJavaBaseType(LookupEnvironment.java:1560)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getJavaLangString(Scope.java:2830)
+	at org.eclipse.jdt.internal.compiler.ast.StringLiteral.literalType(StringLiteral.java:73)
+	at org.eclipse.jdt.internal.compiler.ast.Literal.resolveType(Literal.java:45)
+	at org.eclipse.jdt.internal.compiler.ast.MemberValuePair.resolveTypeExpecting(MemberValuePair.java:92)
+	at org.eclipse.jdt.internal.compiler.ast.Annotation.resolveType(Annotation.java:852)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:857)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:716)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.getAnnotationTagBits(SourceTypeBinding.java:1024)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.checkAnnotationsInType(SourceTypeBinding.java:887)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.faultInTypesForFieldsAndMethods(SourceTypeBinding.java:900)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.faultInTypes(CompilationUnitScope.java:509)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:1047)
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:163)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:378)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect_aroundBody0(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.core.CompilationUnit$AjcClosure1.run(CompilationUnit.java:1)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8proceed(ITDAwarenessAspect.aj:311)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8(ITDAwarenessAspect.aj:312)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getJavaElementsAt(AbstractJavaEditorTextHover.java:121)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo(JavaSourceHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo2(JavaSourceHover.java:118)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-06-29 16:31:45.929
+!MESSAGE Failed to read module-info.class
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/java.nio.channels.Channels$ReadableByteChannelImpl.read(Channels.java:386)
+	at jdk.internal.jrtfs.JrtFileSystem$1.read(JrtFileSystem.java:376)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at java.base/java.nio.file.Files.read(Files.java:3160)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3213)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfileBytes(JRTUtil.java:330)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfile(JRTUtil.java:341)
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.getClassfile(JRTUtil.java:159)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.getModule(JavaProject.java:830)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.addTransitive(JavaProject.java:818)
+	at org.eclipse.jdt.internal.core.JavaProject.filterLimitedModules(JavaProject.java:793)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:695)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:963)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:922)
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:477)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:320)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:306)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3537)
+	at org.eclipse.jdt.internal.core.ModuleSourcePathManager.seekModule(ModuleSourcePathManager.java:79)
+	at org.eclipse.jdt.internal.core.NameLookup.findModule(NameLookup.java:1028)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModule(SearchableEnvironment.java:1026)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getModule(LookupEnvironment.java:204)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.javaBaseModule(LookupEnvironment.java:715)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getResolvedJavaBaseType(LookupEnvironment.java:1560)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getJavaLangString(Scope.java:2830)
+	at org.eclipse.jdt.internal.compiler.ast.StringLiteral.literalType(StringLiteral.java:73)
+	at org.eclipse.jdt.internal.compiler.ast.Literal.resolveType(Literal.java:45)
+	at org.eclipse.jdt.internal.compiler.ast.MemberValuePair.resolveTypeExpecting(MemberValuePair.java:92)
+	at org.eclipse.jdt.internal.compiler.ast.Annotation.resolveType(Annotation.java:852)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:857)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:716)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.getAnnotationTagBits(SourceTypeBinding.java:1024)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.checkAnnotationsInType(SourceTypeBinding.java:887)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.faultInTypesForFieldsAndMethods(SourceTypeBinding.java:900)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.faultInTypes(CompilationUnitScope.java:509)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:1047)
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:163)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:378)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect_aroundBody0(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.core.CompilationUnit$AjcClosure1.run(CompilationUnit.java:1)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8proceed(ITDAwarenessAspect.aj:311)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8(ITDAwarenessAspect.aj:312)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getJavaElementsAt(AbstractJavaEditorTextHover.java:121)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo(JavaSourceHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo2(JavaSourceHover.java:118)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-06-29 16:31:46.005
+!MESSAGE Failed to read module-info.class
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/java.nio.channels.Channels$ReadableByteChannelImpl.read(Channels.java:386)
+	at jdk.internal.jrtfs.JrtFileSystem$1.read(JrtFileSystem.java:376)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at java.base/java.nio.file.Files.read(Files.java:3160)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3213)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfileBytes(JRTUtil.java:330)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfile(JRTUtil.java:341)
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.getClassfile(JRTUtil.java:159)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.getModule(JavaProject.java:830)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.addTransitive(JavaProject.java:818)
+	at org.eclipse.jdt.internal.core.JavaProject.filterLimitedModules(JavaProject.java:793)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:695)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:963)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:922)
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:477)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:320)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:306)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3537)
+	at org.eclipse.jdt.internal.core.ModuleSourcePathManager.seekModule(ModuleSourcePathManager.java:79)
+	at org.eclipse.jdt.internal.core.NameLookup.findModule(NameLookup.java:1028)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModule(SearchableEnvironment.java:1026)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getModule(LookupEnvironment.java:204)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.javaBaseModule(LookupEnvironment.java:715)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getResolvedJavaBaseType(LookupEnvironment.java:1560)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getJavaLangString(Scope.java:2830)
+	at org.eclipse.jdt.internal.compiler.ast.StringLiteral.literalType(StringLiteral.java:73)
+	at org.eclipse.jdt.internal.compiler.ast.Literal.resolveType(Literal.java:45)
+	at org.eclipse.jdt.internal.compiler.ast.MemberValuePair.resolveTypeExpecting(MemberValuePair.java:92)
+	at org.eclipse.jdt.internal.compiler.ast.Annotation.resolveType(Annotation.java:852)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:857)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:716)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.getAnnotationTagBits(SourceTypeBinding.java:1024)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.checkAnnotationsInType(SourceTypeBinding.java:887)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.faultInTypesForFieldsAndMethods(SourceTypeBinding.java:900)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.faultInTypes(CompilationUnitScope.java:509)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:1047)
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:163)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:378)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect_aroundBody0(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.core.CompilationUnit$AjcClosure1.run(CompilationUnit.java:1)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8proceed(ITDAwarenessAspect.aj:311)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8(ITDAwarenessAspect.aj:312)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getJavaElementsAt(AbstractJavaEditorTextHover.java:121)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo(JavaSourceHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo2(JavaSourceHover.java:118)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-06-29 16:31:46.096
+!MESSAGE Failed to read module-info.class
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/java.nio.channels.Channels$ReadableByteChannelImpl.read(Channels.java:386)
+	at jdk.internal.jrtfs.JrtFileSystem$1.read(JrtFileSystem.java:376)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at java.base/java.nio.file.Files.read(Files.java:3160)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3213)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfileBytes(JRTUtil.java:330)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfile(JRTUtil.java:341)
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.getClassfile(JRTUtil.java:159)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.getModule(JavaProject.java:830)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.addTransitive(JavaProject.java:818)
+	at org.eclipse.jdt.internal.core.JavaProject.filterLimitedModules(JavaProject.java:793)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:695)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:963)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:922)
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:477)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:320)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:306)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3537)
+	at org.eclipse.jdt.internal.core.ModuleSourcePathManager.seekModule(ModuleSourcePathManager.java:79)
+	at org.eclipse.jdt.internal.core.NameLookup.findModule(NameLookup.java:1028)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModule(SearchableEnvironment.java:1026)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getModule(LookupEnvironment.java:204)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.javaBaseModule(LookupEnvironment.java:715)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getResolvedJavaBaseType(LookupEnvironment.java:1560)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getJavaLangString(Scope.java:2830)
+	at org.eclipse.jdt.internal.compiler.ast.StringLiteral.literalType(StringLiteral.java:73)
+	at org.eclipse.jdt.internal.compiler.ast.Literal.resolveType(Literal.java:45)
+	at org.eclipse.jdt.internal.compiler.ast.MemberValuePair.resolveTypeExpecting(MemberValuePair.java:92)
+	at org.eclipse.jdt.internal.compiler.ast.Annotation.resolveType(Annotation.java:852)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:857)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:716)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.getAnnotationTagBits(SourceTypeBinding.java:1024)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.checkAnnotationsInType(SourceTypeBinding.java:887)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.faultInTypesForFieldsAndMethods(SourceTypeBinding.java:900)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.faultInTypes(CompilationUnitScope.java:509)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:1047)
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:163)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:378)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect_aroundBody0(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.core.CompilationUnit$AjcClosure1.run(CompilationUnit.java:1)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8proceed(ITDAwarenessAspect.aj:311)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8(ITDAwarenessAspect.aj:312)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getJavaElementsAt(AbstractJavaEditorTextHover.java:121)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo(JavaSourceHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo2(JavaSourceHover.java:118)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-06-29 16:31:46.232
+!MESSAGE Failed to read module-info.class
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/java.nio.channels.Channels$ReadableByteChannelImpl.read(Channels.java:386)
+	at jdk.internal.jrtfs.JrtFileSystem$1.read(JrtFileSystem.java:376)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at java.base/java.nio.file.Files.read(Files.java:3160)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3213)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfileBytes(JRTUtil.java:330)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfile(JRTUtil.java:341)
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.getClassfile(JRTUtil.java:159)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.getModule(JavaProject.java:830)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.addTransitive(JavaProject.java:818)
+	at org.eclipse.jdt.internal.core.JavaProject.filterLimitedModules(JavaProject.java:793)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:695)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:963)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:922)
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:477)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:320)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:306)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3537)
+	at org.eclipse.jdt.internal.core.ModuleSourcePathManager.seekModule(ModuleSourcePathManager.java:79)
+	at org.eclipse.jdt.internal.core.NameLookup.findModule(NameLookup.java:1028)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModule(SearchableEnvironment.java:1026)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getModule(LookupEnvironment.java:204)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.javaBaseModule(LookupEnvironment.java:715)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getResolvedJavaBaseType(LookupEnvironment.java:1560)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getJavaLangString(Scope.java:2830)
+	at org.eclipse.jdt.internal.compiler.ast.StringLiteral.literalType(StringLiteral.java:73)
+	at org.eclipse.jdt.internal.compiler.ast.Literal.resolveType(Literal.java:45)
+	at org.eclipse.jdt.internal.compiler.ast.MemberValuePair.resolveTypeExpecting(MemberValuePair.java:92)
+	at org.eclipse.jdt.internal.compiler.ast.Annotation.resolveType(Annotation.java:852)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:857)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:716)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.getAnnotationTagBits(SourceTypeBinding.java:1024)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.checkAnnotationsInType(SourceTypeBinding.java:887)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.faultInTypesForFieldsAndMethods(SourceTypeBinding.java:900)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.faultInTypes(CompilationUnitScope.java:509)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:1047)
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:163)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:378)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect_aroundBody0(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.core.CompilationUnit$AjcClosure1.run(CompilationUnit.java:1)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8proceed(ITDAwarenessAspect.aj:311)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8(ITDAwarenessAspect.aj:312)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getJavaElementsAt(AbstractJavaEditorTextHover.java:121)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo(JavaSourceHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo2(JavaSourceHover.java:118)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-06-29 16:31:46.304
+!MESSAGE Failed to read module-info.class
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/java.nio.channels.Channels$ReadableByteChannelImpl.read(Channels.java:386)
+	at jdk.internal.jrtfs.JrtFileSystem$1.read(JrtFileSystem.java:376)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at java.base/java.nio.file.Files.read(Files.java:3160)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3213)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfileBytes(JRTUtil.java:330)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfile(JRTUtil.java:341)
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.getClassfile(JRTUtil.java:159)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.getModule(JavaProject.java:830)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.addTransitive(JavaProject.java:818)
+	at org.eclipse.jdt.internal.core.JavaProject.filterLimitedModules(JavaProject.java:793)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:695)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:963)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:922)
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:477)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:320)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:306)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3537)
+	at org.eclipse.jdt.internal.core.ModuleSourcePathManager.seekModule(ModuleSourcePathManager.java:79)
+	at org.eclipse.jdt.internal.core.NameLookup.findModule(NameLookup.java:1028)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModule(SearchableEnvironment.java:1026)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getModule(LookupEnvironment.java:204)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.javaBaseModule(LookupEnvironment.java:715)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getResolvedJavaBaseType(LookupEnvironment.java:1560)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getJavaLangString(Scope.java:2830)
+	at org.eclipse.jdt.internal.compiler.ast.StringLiteral.literalType(StringLiteral.java:73)
+	at org.eclipse.jdt.internal.compiler.ast.Literal.resolveType(Literal.java:45)
+	at org.eclipse.jdt.internal.compiler.ast.MemberValuePair.resolveTypeExpecting(MemberValuePair.java:92)
+	at org.eclipse.jdt.internal.compiler.ast.Annotation.resolveType(Annotation.java:852)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:857)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:716)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.getAnnotationTagBits(SourceTypeBinding.java:1024)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.checkAnnotationsInType(SourceTypeBinding.java:887)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.faultInTypesForFieldsAndMethods(SourceTypeBinding.java:900)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.faultInTypes(CompilationUnitScope.java:509)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:1047)
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:163)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:378)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect_aroundBody0(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.core.CompilationUnit$AjcClosure1.run(CompilationUnit.java:1)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8proceed(ITDAwarenessAspect.aj:311)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8(ITDAwarenessAspect.aj:312)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getJavaElementsAt(AbstractJavaEditorTextHover.java:121)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo(JavaSourceHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo2(JavaSourceHover.java:118)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-06-29 16:31:46.369
+!MESSAGE Failed to read module-info.class
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/java.nio.channels.Channels$ReadableByteChannelImpl.read(Channels.java:386)
+	at jdk.internal.jrtfs.JrtFileSystem$1.read(JrtFileSystem.java:376)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at java.base/java.nio.file.Files.read(Files.java:3160)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3213)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfileBytes(JRTUtil.java:330)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfile(JRTUtil.java:341)
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.getClassfile(JRTUtil.java:159)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.getModule(JavaProject.java:830)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.addTransitive(JavaProject.java:818)
+	at org.eclipse.jdt.internal.core.JavaProject.filterLimitedModules(JavaProject.java:793)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:695)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:963)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:922)
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:477)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:320)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:306)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3537)
+	at org.eclipse.jdt.internal.core.ModuleSourcePathManager.seekModule(ModuleSourcePathManager.java:79)
+	at org.eclipse.jdt.internal.core.NameLookup.findModule(NameLookup.java:1028)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModule(SearchableEnvironment.java:1026)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getModule(LookupEnvironment.java:204)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.javaBaseModule(LookupEnvironment.java:715)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getResolvedJavaBaseType(LookupEnvironment.java:1560)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getJavaLangString(Scope.java:2830)
+	at org.eclipse.jdt.internal.compiler.ast.StringLiteral.literalType(StringLiteral.java:73)
+	at org.eclipse.jdt.internal.compiler.ast.Literal.resolveType(Literal.java:45)
+	at org.eclipse.jdt.internal.compiler.ast.MemberValuePair.resolveTypeExpecting(MemberValuePair.java:92)
+	at org.eclipse.jdt.internal.compiler.ast.Annotation.resolveType(Annotation.java:852)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:857)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:716)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.getAnnotationTagBits(SourceTypeBinding.java:1024)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.checkAnnotationsInType(SourceTypeBinding.java:887)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.faultInTypesForFieldsAndMethods(SourceTypeBinding.java:900)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.faultInTypes(CompilationUnitScope.java:509)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:1047)
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:163)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:378)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect_aroundBody0(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.core.CompilationUnit$AjcClosure1.run(CompilationUnit.java:1)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8proceed(ITDAwarenessAspect.aj:311)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8(ITDAwarenessAspect.aj:312)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getJavaElementsAt(AbstractJavaEditorTextHover.java:121)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo(JavaSourceHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo2(JavaSourceHover.java:118)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-06-29 16:31:46.431
+!MESSAGE Failed to read module-info.class
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/java.nio.channels.Channels$ReadableByteChannelImpl.read(Channels.java:386)
+	at jdk.internal.jrtfs.JrtFileSystem$1.read(JrtFileSystem.java:376)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at java.base/java.nio.file.Files.read(Files.java:3160)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3213)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfileBytes(JRTUtil.java:330)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfile(JRTUtil.java:341)
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.getClassfile(JRTUtil.java:159)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.getModule(JavaProject.java:830)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.addTransitive(JavaProject.java:818)
+	at org.eclipse.jdt.internal.core.JavaProject.filterLimitedModules(JavaProject.java:793)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:695)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:963)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:922)
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:477)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:320)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:306)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3537)
+	at org.eclipse.jdt.internal.core.ModuleSourcePathManager.seekModule(ModuleSourcePathManager.java:79)
+	at org.eclipse.jdt.internal.core.NameLookup.findModule(NameLookup.java:1028)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModule(SearchableEnvironment.java:1026)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getModule(LookupEnvironment.java:204)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.javaBaseModule(LookupEnvironment.java:715)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getResolvedJavaBaseType(LookupEnvironment.java:1560)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getJavaLangString(Scope.java:2830)
+	at org.eclipse.jdt.internal.compiler.ast.StringLiteral.literalType(StringLiteral.java:73)
+	at org.eclipse.jdt.internal.compiler.ast.Literal.resolveType(Literal.java:45)
+	at org.eclipse.jdt.internal.compiler.ast.MemberValuePair.resolveTypeExpecting(MemberValuePair.java:92)
+	at org.eclipse.jdt.internal.compiler.ast.Annotation.resolveType(Annotation.java:852)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:857)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:716)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.getAnnotationTagBits(SourceTypeBinding.java:1024)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.checkAnnotationsInType(SourceTypeBinding.java:887)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.faultInTypesForFieldsAndMethods(SourceTypeBinding.java:900)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.faultInTypes(CompilationUnitScope.java:509)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:1047)
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:163)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:378)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect_aroundBody0(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.core.CompilationUnit$AjcClosure1.run(CompilationUnit.java:1)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8proceed(ITDAwarenessAspect.aj:311)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8(ITDAwarenessAspect.aj:312)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getJavaElementsAt(AbstractJavaEditorTextHover.java:121)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo(JavaSourceHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo2(JavaSourceHover.java:118)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-06-29 16:31:46.499
+!MESSAGE Failed to read module-info.class
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/java.nio.channels.Channels$ReadableByteChannelImpl.read(Channels.java:386)
+	at jdk.internal.jrtfs.JrtFileSystem$1.read(JrtFileSystem.java:376)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at java.base/java.nio.file.Files.read(Files.java:3160)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3213)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfileBytes(JRTUtil.java:330)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfile(JRTUtil.java:341)
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.getClassfile(JRTUtil.java:159)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.getModule(JavaProject.java:830)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.addTransitive(JavaProject.java:818)
+	at org.eclipse.jdt.internal.core.JavaProject.filterLimitedModules(JavaProject.java:793)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:695)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:963)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:922)
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:477)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:320)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:306)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3537)
+	at org.eclipse.jdt.internal.core.ModuleSourcePathManager.seekModule(ModuleSourcePathManager.java:79)
+	at org.eclipse.jdt.internal.core.NameLookup.findModule(NameLookup.java:1028)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModule(SearchableEnvironment.java:1026)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getModule(LookupEnvironment.java:204)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.javaBaseModule(LookupEnvironment.java:715)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getResolvedJavaBaseType(LookupEnvironment.java:1560)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getJavaLangString(Scope.java:2830)
+	at org.eclipse.jdt.internal.compiler.ast.StringLiteral.literalType(StringLiteral.java:73)
+	at org.eclipse.jdt.internal.compiler.ast.Literal.resolveType(Literal.java:45)
+	at org.eclipse.jdt.internal.compiler.ast.MemberValuePair.resolveTypeExpecting(MemberValuePair.java:92)
+	at org.eclipse.jdt.internal.compiler.ast.Annotation.resolveType(Annotation.java:852)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:857)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:716)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.getAnnotationTagBits(SourceTypeBinding.java:1024)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.checkAnnotationsInType(SourceTypeBinding.java:887)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.faultInTypesForFieldsAndMethods(SourceTypeBinding.java:900)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.faultInTypes(CompilationUnitScope.java:509)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:1047)
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:163)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:378)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect_aroundBody0(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.core.CompilationUnit$AjcClosure1.run(CompilationUnit.java:1)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8proceed(ITDAwarenessAspect.aj:311)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8(ITDAwarenessAspect.aj:312)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getJavaElementsAt(AbstractJavaEditorTextHover.java:121)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo(JavaSourceHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo2(JavaSourceHover.java:118)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-06-29 16:31:46.568
+!MESSAGE Failed to read module-info.class
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/java.nio.channels.Channels$ReadableByteChannelImpl.read(Channels.java:386)
+	at jdk.internal.jrtfs.JrtFileSystem$1.read(JrtFileSystem.java:376)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at java.base/java.nio.file.Files.read(Files.java:3160)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3213)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfileBytes(JRTUtil.java:330)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfile(JRTUtil.java:341)
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.getClassfile(JRTUtil.java:159)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.getModule(JavaProject.java:830)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.addTransitive(JavaProject.java:818)
+	at org.eclipse.jdt.internal.core.JavaProject.filterLimitedModules(JavaProject.java:793)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:695)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:963)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:922)
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:477)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:320)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:306)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3537)
+	at org.eclipse.jdt.internal.core.ModuleSourcePathManager.seekModule(ModuleSourcePathManager.java:79)
+	at org.eclipse.jdt.internal.core.NameLookup.findModule(NameLookup.java:1028)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModule(SearchableEnvironment.java:1026)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getModule(LookupEnvironment.java:204)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.javaBaseModule(LookupEnvironment.java:715)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getResolvedJavaBaseType(LookupEnvironment.java:1560)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getJavaLangString(Scope.java:2830)
+	at org.eclipse.jdt.internal.compiler.ast.StringLiteral.literalType(StringLiteral.java:73)
+	at org.eclipse.jdt.internal.compiler.ast.Literal.resolveType(Literal.java:45)
+	at org.eclipse.jdt.internal.compiler.ast.MemberValuePair.resolveTypeExpecting(MemberValuePair.java:92)
+	at org.eclipse.jdt.internal.compiler.ast.Annotation.resolveType(Annotation.java:852)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:857)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:716)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.getAnnotationTagBits(SourceTypeBinding.java:1024)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.checkAnnotationsInType(SourceTypeBinding.java:887)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.faultInTypesForFieldsAndMethods(SourceTypeBinding.java:900)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.faultInTypes(CompilationUnitScope.java:509)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:1047)
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:163)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:378)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect_aroundBody0(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.core.CompilationUnit$AjcClosure1.run(CompilationUnit.java:1)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8proceed(ITDAwarenessAspect.aj:311)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8(ITDAwarenessAspect.aj:312)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getJavaElementsAt(AbstractJavaEditorTextHover.java:121)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo(JavaSourceHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo2(JavaSourceHover.java:118)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-06-29 16:31:46.657
+!MESSAGE Failed to read module-info.class
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/java.nio.channels.Channels$ReadableByteChannelImpl.read(Channels.java:386)
+	at jdk.internal.jrtfs.JrtFileSystem$1.read(JrtFileSystem.java:376)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at java.base/java.nio.file.Files.read(Files.java:3160)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3213)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfileBytes(JRTUtil.java:330)
+	at org.eclipse.jdt.internal.compiler.util.JrtFileSystem.getClassfile(JRTUtil.java:341)
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.getClassfile(JRTUtil.java:159)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.getModule(JavaProject.java:830)
+	at org.eclipse.jdt.internal.core.JavaProject$ModuleLookup.addTransitive(JavaProject.java:818)
+	at org.eclipse.jdt.internal.core.JavaProject.filterLimitedModules(JavaProject.java:793)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:695)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:963)
+	at org.eclipse.jdt.internal.core.JavaProject.computePackageFragmentRoots(JavaProject.java:922)
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:477)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:320)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:306)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3537)
+	at org.eclipse.jdt.internal.core.ModuleSourcePathManager.seekModule(ModuleSourcePathManager.java:79)
+	at org.eclipse.jdt.internal.core.NameLookup.findModule(NameLookup.java:1028)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModule(SearchableEnvironment.java:1026)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getModule(LookupEnvironment.java:204)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.javaBaseModule(LookupEnvironment.java:715)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getResolvedJavaBaseType(LookupEnvironment.java:1560)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getJavaLangString(Scope.java:2830)
+	at org.eclipse.jdt.internal.compiler.ast.StringLiteral.literalType(StringLiteral.java:73)
+	at org.eclipse.jdt.internal.compiler.ast.Literal.resolveType(Literal.java:45)
+	at org.eclipse.jdt.internal.compiler.ast.MemberValuePair.resolveTypeExpecting(MemberValuePair.java:92)
+	at org.eclipse.jdt.internal.compiler.ast.Annotation.resolveType(Annotation.java:852)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:857)
+	at org.eclipse.jdt.internal.compiler.ast.ASTNode.resolveAnnotations(ASTNode.java:716)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.getAnnotationTagBits(SourceTypeBinding.java:1024)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.checkAnnotationsInType(SourceTypeBinding.java:887)
+	at org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding.faultInTypesForFieldsAndMethods(SourceTypeBinding.java:900)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.faultInTypes(CompilationUnitScope.java:509)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:1047)
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:163)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:378)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect_aroundBody0(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.core.CompilationUnit$AjcClosure1.run(CompilationUnit.java:1)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8proceed(ITDAwarenessAspect.aj:311)
+	at org.eclipse.contribution.jdt.itdawareness.ITDAwarenessAspect.ajc$around$org_eclipse_contribution_jdt_itdawareness_ITDAwarenessAspect$6$3f3ffce8(ITDAwarenessAspect.aj:312)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:372)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getJavaElementsAt(AbstractJavaEditorTextHover.java:121)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo(JavaSourceHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo2(JavaSourceHover.java:118)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-06-29 16:35:59.897
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-29 16:38:07.641
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-29 16:38:07.641
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2018-06-29 16:54:38.486 -----------------------------------------------
+eclipse.buildId=3.9.3.201803200915-RELEASE-e47
+java.version=9.0.4
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.ui 2 0 2018-06-29 16:54:46.517
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2018-06-29 16:54:46.517
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.lsp4e', id='org.eclipse.lsp4e.togglehighlight'
+
+!ENTRY org.eclipse.e4.ui.css.swt.theme 4 0 2018-06-29 16:54:48.192
+!MESSAGE /resources/css/dark.css
+!STACK 0
+java.io.FileNotFoundException: /resources/css/dark.css
+	at org.eclipse.osgi.storage.url.bundleentry.Handler.findBundleEntry(Handler.java:49)
+	at org.eclipse.osgi.storage.url.BundleResourceHandler.openConnection(BundleResourceHandler.java:169)
+	at java.base/java.net.URL.openConnection(URL.java:1051)
+	at org.eclipse.osgi.storage.url.BundleURLConverter.resolve(BundleURLConverter.java:50)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:229)
+	at org.eclipse.core.internal.runtime.PlatformURLConverter.resolve(PlatformURLConverter.java:50)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:229)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:419)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:387)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:551)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1419)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1326)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1043)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1472)
+
+!ENTRY org.eclipse.jface 2 0 2018-06-29 16:54:48.865
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-06-29 16:54:48.865
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2be89ba5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@408573b1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-29 17:05:04.660
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-29 17:05:04.662
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'

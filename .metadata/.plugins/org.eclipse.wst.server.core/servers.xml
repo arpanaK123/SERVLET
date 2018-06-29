@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="5">
-    <list key="modules" value0="Login_WebProject::org.eclipse.jst.jee.server:Login_WebProject::jst.web::3.1" value1="Send_Redirect_method::org.eclipse.jst.jee.server:Send_Redirect_method::jst.web::3.1" value2="Servlet_Config::org.eclipse.jst.jee.server:Servlet_Config::jst.web::3.1" value3="COOKIES::org.eclipse.jst.jee.server:COOKIES::jst.web::3.1" value4="Servlet_Login_Logout::org.eclipse.jst.jee.server:Servlet_Login_Logout::jst.web::3.1"/>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="CRUD_SERVLET::org.eclipse.jst.jee.server:CRUD_SERVLET::jst.web::3.1"/>
   </server>
 </servers>

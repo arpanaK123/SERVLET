@@ -1,0 +1,20 @@
+
+’squid:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(×œ»Ýüÿÿÿÿ8Ž€¿ÙÄ,HòRMINORZ
+CODE_SMELL
+ssquid:S1118
+":Add a private constructor to hide the implicit public one.(Ÿ´¯çÿÿÿÿÿ8Ž€¿ÙÄ,HôRMAJORZ
+CODE_SMELL
+ssquid:S2259n"AA "NullPointerException" could be thrown; "con" is nullable here.(õé”ªúÿÿÿÿ8Ž€¿ÙÄ,H÷RMAJORZBUG
+ssquid:S2259W"AA "NullPointerException" could be thrown; "con" is nullable here.(²²³Íÿÿÿÿÿ8Ž€¿ÙÄ,HöRMAJORZBUG
+ssquid:S2259F"AA "NullPointerException" could be thrown; "con" is nullable here.(ÈŒÍ¹úÿÿÿÿ8Ž€¿ÙÄ,HùRMAJORZBUG
+Zsquid:S1148&"#Use a logger to log this exception.(Ç’Çê8Ž€¿ÙÄ,HúRMINORZVULNERABILITY
+Žsquid:S20681"U'password' detected in this expression, review this potentially hardcoded credential.(÷£Éä8Ž€¿ÙÄ,HñRBLOCKERZVULNERABILITY
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ8Ž€¿ÙÄ,HóRMAJORZ
+CODE_SMELL
+ssquid:S22590"AA "NullPointerException" could be thrown; "con" is nullable here.(Ÿý» ýÿÿÿÿ8Ž€¿ÙÄ,HøRMAJORZBUG
+Zsquid:S1148c"#Use a logger to log this exception.(Ç’Çê8Ž€¿ÙÄ,HýRMINORZVULNERABILITY
+_squid:S1148{"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ž€¿ÙÄ,HþRMINORZVULNERABILITY
+Zsquid:S1148<"#Use a logger to log this exception.(Ç’Çê8Ž€¿ÙÄ,HûRMINORZVULNERABILITY
+ssquid:S2259"AA "NullPointerException" could be thrown; "con" is nullable here.(Ÿý» ýÿÿÿÿ8Ž€¿ÙÄ,HõRMAJORZBUG
+_squid:S1148L"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ž€¿ÙÄ,HüRMINORZVULNERABILITY

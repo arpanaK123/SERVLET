@@ -1,0 +1,25 @@
+
+nsquid:S2259v"AA "NullPointerException" could be thrown; "con" is nullable here.(Å³Ñê8¢•‰±Ä,HËRMAJORZBUG
+†squid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øËƒ 8¢•‰±Ä,HÌRMINORZ
+CODE_SMELL
+ssquid:S1118":Add a private constructor to hide the implicit public one.(Ÿ´¯çÿÿÿÿÿ8­ùı¯Ä,HÃRMAJORZ
+CODE_SMELL
+ssquid:S2259"AA "NullPointerException" could be thrown; "con" is nullable here.(Ÿı» ıÿÿÿÿ8¢•‰±Ä,HÈRMAJORZBUG
+ssquid:S2259N"AA "NullPointerException" could be thrown; "con" is nullable here.(ÈŒÍ¹úÿÿÿÿ8¢•‰±Ä,HÊRMAJORZBUG
+Zsquid:S1148A"#Use a logger to log this exception.(Ç’Çê8¢•‰±Ä,HÍRMINORZVULNERABILITY
+l
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ö¬8­ùı¯Ä,HÀRMAJORZ
+CODE_SMELL
+Zsquid:S1148k"#Use a logger to log this exception.(Ç’Çê8¢•‰±Ä,HÎRMINORZVULNERABILITY
+`squid:S1148ƒ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¢•‰±Ä,HÏRMINORZVULNERABILITY
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8­ùı¯Ä,HÁRMAJORZ
+CODE_SMELL
+squid:S20685"U'PASSWORD' detected in this expression, review this potentially hardcoded credential.(¡Ûç8¢•‰±Ä,HÆRBLOCKERZVULNERABILITY
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(““‡®8ı³Ä,H÷RMAJORZ
+CODE_SMELL
+’squid:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").(×œ»İüÿÿÿÿ8¢•‰±Ä,HÇRMINORZ
+CODE_SMELL
+ssquid:S22594"AA "NullPointerException" could be thrown; "con" is nullable here.(Ÿı» ıÿÿÿÿ8­ùı¯Ä,HÄRMAJORZBUG
+nsquid:S2259_"AA "NullPointerException" could be thrown; "con" is nullable here.(à¿îµ8¢•‰±Ä,HÉRMAJORZBUG
