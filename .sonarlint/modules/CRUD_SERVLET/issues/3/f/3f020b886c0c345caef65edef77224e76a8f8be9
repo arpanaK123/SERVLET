@@ -1,7 +1,7 @@
 
-nsquid:S1161":Add the "@Override" annotation above this method signature(÷¤‹ú8“ÙÕÙÄ,HRMAJORZ
+Šsquid:S1192"NDefine a constant instead of duplicating this literal "'/></td></tr>" 4 times.(ï‰áóúÿÿÿÿ8“ÙÕÙÄ,H«RCRITICALZ
 CODE_SMELL
-dsquid:S1989"(Add a "try/catch" block for "getWriter".(ïô†úÿÿÿÿ8“ÙÕÙÄ,HŒRMINORZVULNERABILITY
-Šsquid:S1192"NDefine a constant instead of duplicating this literal "'/></td></tr>" 4 times.(ï‰áóúÿÿÿÿ8“ÙÕÙÄ,H‹RCRITICALZ
+^squid:S1989"'Add a "try/catch" block for "parseInt".(Ê ÿ¿8“ÙÕÙÄ,H¬RMINORZVULNERABILITY
+dsquid:S1989"(Add a "try/catch" block for "getWriter".(ïô†úÿÿÿÿ8“ÙÕÙÄ,H­RMINORZVULNERABILITY
+nsquid:S1161":Add the "@Override" annotation above this method signature(÷¤‹ú8“ÙÕÙÄ,H®RMAJORZ
 CODE_SMELL
-^squid:S1989"'Add a "try/catch" block for "parseInt".(Ê ÿ¿8“ÙÕÙÄ,HRMINORZVULNERABILITY

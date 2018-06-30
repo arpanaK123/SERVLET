@@ -1,6 +1,9 @@
 
-]squid:S1989"(Add a "try/catch" block for "getWriter".(ïô†úÿÿÿÿH‡RMINORZVULNERABILITY
-lsquid:S1161":Add the "@Override" annotation above this method signature(ş³‚”ûÿÿÿÿHˆRMAJORZ
+]squid:S1989"(Add a "try/catch" block for "getWriter".(ïô†úÿÿÿÿH¹RMINORZVULNERABILITY
+^squid:S1989"'Add a "try/catch" block for "parseInt".(ˆÛƒ8ÓÜÚÄ,H±RMINORZVULNERABILITY
+]squid:S1989&"&Add a "try/catch" block for "include".(¹Šôê8ÂåÏÙÄ,H¶RMINORZVULNERABILITY
+lsquid:S1161":Add the "@Override" annotation above this method signature(ş³‚”ûÿÿÿÿH¸RMAJORZ
 CODE_SMELL
-]squid:S1989%"&Add a "try/catch" block for "include".(¹Šôê8ÂåÏÙÄ,H‰RMINORZVULNERABILITY
-]squid:S1989%"&Add a "try/catch" block for "include".(¹Šôê8ÂåÏÙÄ,HŠRMINORZVULNERABILITY
+]squid:S1989&"&Add a "try/catch" block for "include".(¹Šôê8ÂåÏÙÄ,H·RMINORZVULNERABILITY
+†squid:UselessImportCheck"@Remove this unused import 'javax.servlet.annotation.WebServlet'.(™ì¢´şÿÿÿÿ8„Ó³ÚÄ,HºRMINORZ
+CODE_SMELL
