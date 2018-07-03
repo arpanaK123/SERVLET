@@ -1,0 +1,23 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(î¸Õ‹8ÑˆÝÖÅ,H×
+RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(©ºóµ8ÑˆÝÖÅ,HÚ
+RMAJORZ
+CODE_SMELL
+psquid:S1854"<Remove this useless assignment to local variable "metadata".(÷ºþ8ÑˆÝÖÅ,HÜ
+RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(èš­À8ÑˆÝÖÅ,HÙ
+RMAJORZ
+CODE_SMELL
+asquid:S1481"-Remove this unused "metadata" local variable.(÷ºþ8ÑˆÝÖÅ,HÛ
+RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôÑÇŽùÿÿÿÿ8ÑˆÝÖÅ,HØ
+RMAJORZ
+CODE_SMELL

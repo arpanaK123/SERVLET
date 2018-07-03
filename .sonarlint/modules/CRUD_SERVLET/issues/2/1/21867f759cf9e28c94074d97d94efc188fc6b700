@@ -1,20 +1,20 @@
 
-ssquid:S2259"AA "NullPointerException" could be thrown; "con" is nullable here.(„¼‘Ñşÿÿÿÿ8€¿ÙÄ,H¥RMAJORZBUG
-’squid:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(×œ»İüÿÿÿÿ8€¿ÙÄ,HRMINORZ
+_squid:S1148{"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8€¿ÙÄ,Hí	RMINORZVULNERABILITY
+squid:S20681"U'password' detected in this expression, review this potentially hardcoded credential.(÷£Éä8€¿ÙÄ,Hî	RBLOCKERZVULNERABILITY
+’squid:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(×œ»İüÿÿÿÿ8€¿ÙÄ,Hï	RMINORZ
 CODE_SMELL
-ssquid:S2259F"AA "NullPointerException" could be thrown; "con" is nullable here.(ÈŒÍ¹úÿÿÿÿ8€¿ÙÄ,H RMAJORZBUG
-ssquid:S22590"AA "NullPointerException" could be thrown; "con" is nullable here.(Ÿı» ıÿÿÿÿ8€¿ÙÄ,H¤RMAJORZBUG
-_squid:S1148{"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8€¿ÙÄ,H¡RMINORZVULNERABILITY
-Zsquid:S1148c"#Use a logger to log this exception.(Ç’Çê8€¿ÙÄ,HRMINORZVULNERABILITY
-squid:S20681"U'password' detected in this expression, review this potentially hardcoded credential.(÷£Éä8€¿ÙÄ,H£RBLOCKERZVULNERABILITY
-ssquid:S2259W"AA "NullPointerException" could be thrown; "con" is nullable here.(²²³Íÿÿÿÿÿ8€¿ÙÄ,H›RMAJORZBUG
+ssquid:S22590"AA "NullPointerException" could be thrown; "con" is nullable here.(Ÿı» ıÿÿÿÿ8€¿ÙÄ,Hğ	RMAJORZBUG
+Zsquid:S1148<"#Use a logger to log this exception.(Ç’Çê8€¿ÙÄ,Hñ	RMINORZVULNERABILITY
+ssquid:S2259n"AA "NullPointerException" could be thrown; "con" is nullable here.(õé”ªúÿÿÿÿ8€¿ÙÄ,Hò	RMAJORZBUG
+_squid:S1148L"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8€¿ÙÄ,Hó	RMINORZVULNERABILITY
+Zsquid:S1148c"#Use a logger to log this exception.(Ç’Çê8€¿ÙÄ,Hô	RMINORZVULNERABILITY
+ssquid:S2259F"AA "NullPointerException" could be thrown; "con" is nullable here.(ÈŒÍ¹úÿÿÿÿ8€¿ÙÄ,Hõ	RMAJORZBUG
 q
-squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8€¿ÙÄ,H§RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8€¿ÙÄ,Hö	RMAJORZ
 CODE_SMELL
+Zsquid:S1148&"#Use a logger to log this exception.(Ç’Çê8€¿ÙÄ,H÷	RMINORZVULNERABILITY
 ssquid:S1118
-":Add a private constructor to hide the implicit public one.(Ÿ´¯çÿÿÿÿÿ8€¿ÙÄ,HŸRMAJORZ
+":Add a private constructor to hide the implicit public one.(Ÿ´¯çÿÿÿÿÿ8€¿ÙÄ,Hø	RMAJORZ
 CODE_SMELL
-Zsquid:S1148<"#Use a logger to log this exception.(Ç’Çê8€¿ÙÄ,HœRMINORZVULNERABILITY
-Zsquid:S1148&"#Use a logger to log this exception.(Ç’Çê8€¿ÙÄ,H¢RMINORZVULNERABILITY
-ssquid:S2259n"AA "NullPointerException" could be thrown; "con" is nullable here.(õé”ªúÿÿÿÿ8€¿ÙÄ,HšRMAJORZBUG
-_squid:S1148L"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8€¿ÙÄ,H¦RMINORZVULNERABILITY
+ssquid:S2259"AA "NullPointerException" could be thrown; "con" is nullable here.(„¼‘Ñşÿÿÿÿ8€¿ÙÄ,Hù	RMAJORZBUG
+ssquid:S2259W"AA "NullPointerException" could be thrown; "con" is nullable here.(²²³Íÿÿÿÿÿ8€¿ÙÄ,Hú	RMAJORZBUG

@@ -1,6 +1,9 @@
 
-gsquid:S1161":Add the "@Override" annotation above this method signature(÷¤‹úHêRMAJORZ
+]squid:S1989"(Add a "try/catch" block for "getWriter".(“­†·øÿÿÿÿHº
+RMINORZVULNERABILITY
+gsquid:S1161":Add the "@Override" annotation above this method signature(÷¤‹úH»
+RMAJORZ
 CODE_SMELL
-squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ÉÅóşÿÿÿÿHéRMINORZ
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ÉÅóşÿÿÿÿH¼
+RMINORZ
 CODE_SMELL
-]squid:S1989"(Add a "try/catch" block for "getWriter".(“­†·øÿÿÿÿHìRMINORZVULNERABILITY

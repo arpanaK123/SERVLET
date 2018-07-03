@@ -1,9 +1,14 @@
 
-ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Îö°§HÌRMINORZ
+gsquid:S1989"+Add a "try/catch" block for "sendRedirect".(´îÿòùÿÿÿÿ8äşÃ,H½
+RMINORZVULNERABILITY
+†squid:UselessImportCheck"@Remove this unused import 'javax.servlet.annotation.WebServlet'.(™ì¢´şÿÿÿÿ8äşÃ,H¾
+RMINORZ
 CODE_SMELL
-]squid:S1989"(Add a "try/catch" block for "getWriter".(“­†·øÿÿÿÿHĞRMINORZVULNERABILITY
-gsquid:S1161":Add the "@Override" annotation above this method signature(÷¤‹úHÍRMAJORZ
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Îö°§H¿
+RMINORZ
 CODE_SMELL
-gsquid:S1989"+Add a "try/catch" block for "sendRedirect".(´îÿòùÿÿÿÿ8äşÃ,HÑRMINORZVULNERABILITY
-†squid:UselessImportCheck"@Remove this unused import 'javax.servlet.annotation.WebServlet'.(™ì¢´şÿÿÿÿ8äşÃ,HÒRMINORZ
+gsquid:S1161":Add the "@Override" annotation above this method signature(÷¤‹úHÀ
+RMAJORZ
 CODE_SMELL
+]squid:S1989"(Add a "try/catch" block for "getWriter".(“­†·øÿÿÿÿHÁ
+RMINORZVULNERABILITY
